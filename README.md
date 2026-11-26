@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on HUST Lab<br>🎓 Study from Ha Noi University of Technology<br>👨‍💻 Working as Game Programmer since 2023<br>⚡ I'm an ISTP-t
+🔭 Used to work on HUST Lab<br>🎓 Studied Ha Noi University of Technology<br>👨‍💻 Working as Machine Learning engineer since 2025<br>⚡ I'm an ISTP-t
 
 
 ## 🌐 Socials:
